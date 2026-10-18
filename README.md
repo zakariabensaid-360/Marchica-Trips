@@ -25,7 +25,7 @@ The platform connects travelers with authentic Moroccan hospitality, offering ac
 
 This project is built using modern frontend technologies and optimized for rapid deployment:
 
-- **Framework:** [Next.js](https://nextjs.org) / [React](https://react.dev) *(or your specific framework like HTML/Tailwind)*
+- **Framework:** [Vite](https://vite.dev) (HTML/Tailwind)
 - **Styling:** Tailwind CSS (for modern, utility-first responsive styling)
 - **Icons:** React Icons / Lucide React
 - **Deployment & Hosting:** [Vercel](https://vercel.com)
