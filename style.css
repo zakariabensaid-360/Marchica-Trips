@@ -1,0 +1,32 @@
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-primary: #164E63;
+  --color-secondary: #38BFC0;
+  --color-sand: #F2E6D2;
+  --color-of-white: #FAF9F6;
+  --color-green: #315C45;
+  --color-text: #243238;
+  --color-white: #FFFFFF;
+
+  /* Typography */
+  --font-heading: "Lora", serif;
+  --font-body: "Inter", sans-serif;
+
+  --text-body: 16px;
+  --text-label: 14px;
+  --text-caption: 12px;
+
+  /* Spacing */
+  --spacing-2: 8px;
+  --spacing-4: 16px;
+  --spacing-6: 24px;
+  --spacing-8: 32px;
+  --spacing-16: 64px;
+
+  /* Components */
+  --radius-card: 16px;
+  --shadow-card: 0 4px 16px rgb(36 50 56 / 10%);
+}
