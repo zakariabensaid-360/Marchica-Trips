@@ -22,7 +22,7 @@ Marchica Trips provides users with a seamless and interactive interface to disco
 
 * **Markup & Styling:** HTML5, CSS3, Responsive Design (Flexbox/Grid)
 * **Interactivity:** Modern JavaScript (ES6+)
-* **Deployment:** GitHub Pages / Automated Branch Build
+* **Deployment:** Vercel / Automated Branch Build
 
 ---
 
